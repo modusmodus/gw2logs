@@ -1,0 +1,30 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "entries": [
+    {
+      "id": "20260328-173435-ijar",
+      "title": "Selvaria The Valk, Vape Onion Star",
+      "commanders": [
+        "Selvaria The Valk",
+        "Vape Onion Star"
+      ],
+      "dateStart": "2026-03-29T00:34:35.000Z",
+      "dateEnd": "2026-03-29T02:08:45.000Z",
+      "dateLabel": "3/28/2026, 5:34:35 PM - 3/28/2026, 7:08:45 PM",
+      "url": "https://modusmodus.github.io/gw2logs/?report=20260328-173435-ijar",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 22,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 40
+      }
+    }
+  ]
+}
